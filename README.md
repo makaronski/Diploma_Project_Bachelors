@@ -6,4 +6,4 @@ For my diploma project for the bachelors degree, I've chosen to setup a website,
 
 To connect to the DB and create sessions for users, I've used PHP.
 
-Unfortunately, I cannot upload the working website here, but in order to get a sense of it, please check the [PDF](https://github.com/makaronski/Diploma_Project_Bachelors/blob/master/Diploma_Project_Bachelors.pdf). The explanation part comes after *pg.32*
+Unfortunately, I cannot upload the working website here, but in order to get a sense of it, please check the [PDF](https://github.com/makaronski/Diploma_Project_Bachelors/blob/master/Diploma_Project_Bachelors.pdf). The explanation part comes after **pg.32**
