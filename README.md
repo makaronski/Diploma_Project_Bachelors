@@ -2,7 +2,7 @@
 
 For my diploma project for the bachelors degree, I've chosen to setup a website, that was supposed to work with a database. Here is the welcome page of the website(logged off):
 
-![Welcome_pg](/Welcome_pg.png)
+![Welcome_pg](/Welcome_pg.jpg)
 
 In order to improve the functionality and make it feasible for larger quantities of users and data, I used MySQL to setup a database. It was used to store user data (after registration) in order to login to the site. The db schema is :
 
