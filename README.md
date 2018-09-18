@@ -1,6 +1,6 @@
 # Diploma_Project_Bachelors
 
-For my diploma project for the bachelors degree, I've chosen to setup a website, that was supposed to work with a database. Here is the welcome page of the website(logged off):
+For my bachelors degree diploma project, I've chosen to setup a website, that was supposed to work with a database. Here is the welcome page of the website(logged off):
 
 ![Welcome_pg](/Welcome_pg.jpg)
 
