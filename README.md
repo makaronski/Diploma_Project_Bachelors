@@ -8,6 +8,6 @@ In order to improve the functionality and make it feasible for larger quantities
 
 ![DB_Schema](/Diploma_Project_Bachelors.jpg)
 
-To connect to the DB and create sessions for users, I've used PHP.
+To connect to the DB and create sessions for users, I've used **PHP**. All the code is uploaded.
 
-Unfortunately, I cannot upload the working website here, but in order to get a sense of it, please check the [PDF](https://github.com/makaronski/Diploma_Project_Bachelors/blob/master/Diploma_Project_Bachelors.pdf). The explanation part comes after **pg.32**
+Unfortunately, because I've run it locally on Apache Web Server, I cannot upload the working website here But in order to get a sense of it, please check the [PDF](https://github.com/makaronski/Diploma_Project_Bachelors/blob/master/Diploma_Project_Bachelors.pdf). The explanation part comes after **pg.32**.
