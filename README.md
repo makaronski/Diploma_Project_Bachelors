@@ -1,4 +1,4 @@
-# Diploma Project Bachelors
+# Diploma Project - Bachelors
 
 For my bachelors degree diploma project, I've chosen to setup a website, that was supposed to work with a database. Here is the welcome page of the website(logged off):
 
